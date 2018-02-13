@@ -1,0 +1,3 @@
+I used the bootstrap method with rows and columns but the content never displayed correctly so I decided to do 
+a lot of relative positioning which totally messed up any responsiveness. I tried every possible set of values for the 
+columns but nothing really helped.
